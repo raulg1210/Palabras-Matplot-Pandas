@@ -30,3 +30,4 @@ Este es un proyecto simple que cuenta la frecuencia de palabras en un archivo de
 
 Las contribuciones son bienvenidas. Si encuentras un error o quieres mejorar el código, siéntete libre de hacer un fork del repositorio y abrir un pull request.
 
+# Palabras-Matplot-Pandas
